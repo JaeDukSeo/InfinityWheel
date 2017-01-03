@@ -12,9 +12,4 @@ All 2D art assets were created in Adobe Illustrator.
 I used a reference manual called iOS Games by Tutorials (2nd Edition), which helped a lot.
 
 
-Some screenshots:
 
-![simulator screen shot oct 15 2015 12 49 58 pm](https://cloud.githubusercontent.com/assets/15040875/21624381/d3f9789e-d1d4-11e6-8021-c50638406f88.png)
-![simulator screen shot oct 15 2015 12 52 01 pm](https://cloud.githubusercontent.com/assets/15040875/21624388/db9d49c2-d1d4-11e6-944e-c78db6a09a79.png)
-![simulator screen shot oct 15 2015 12 55 55 pm](https://cloud.githubusercontent.com/assets/15040875/21624400/e091de7a-d1d4-11e6-8163-a8714b45aa1f.png)
-![simulator screen shot oct 15 2015 12 42 02 pm](https://cloud.githubusercontent.com/assets/15040875/21624413/e87edeee-d1d4-11e6-9de4-3e04fae4208b.png)
