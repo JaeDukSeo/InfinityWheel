@@ -12,4 +12,10 @@ All 2D art assets were created in Adobe Illustrator.
 I used a reference manual called iOS Games by Tutorials (2nd Edition), which helped a lot.
 
 
+Some screenshots:
+
+
+![infinitywheelscreenshots](https://cloud.githubusercontent.com/assets/15040875/21624849/b17df90a-d1d6-11e6-8a81-9e919d00b9ff.png)
+
+
 
