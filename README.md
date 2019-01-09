@@ -2,7 +2,7 @@
 Infinity Wheel is a single-player iOS arcade game written in Swift using the SpriteKit framework. The basic premise of the game is to get the ball through as many obstacles as possible for the highest score. The ball's movements are fixed; the player only has control of the speed of the wheel that the infinite obstacles rotate around. The game is simple, yet challenging!
 
 The majority of the code is located in InfinityWheel/GameScene.swift  
-All 2D art assets were created in Adobe Illustrator.
+All 2D art assets were created by me in Adobe Illustrator.
 
 
 This began as a personal side project in the summer of 2015. It provided me a solid introduction to Swift and game development. 
